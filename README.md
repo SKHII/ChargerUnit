@@ -5,4 +5,4 @@ So far the three STL files are the 3D prints. They will need to be rotated befor
 
 The WinZip file contains the Geber files, in ready for manufacture state. I have been slight changes not already reflected on the project logs.
 
-It goes without me saying, I am not liabile for any or do I guarantee anything.
+It goes without saying, I am not liable nor do I guarantee anything.
